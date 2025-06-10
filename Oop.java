@@ -12,6 +12,8 @@ class Customer {
         System.out.println("Name: " + name);
         System.out.println("Contact Number: " + contactNumber);
         System.out.println("Address: " + address);
+        System.out.println("Thank you for your order!");
+        System.out.println("We will contact you soon.");
     }
 }
 
